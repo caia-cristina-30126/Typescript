@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
